@@ -45,19 +45,16 @@ Steps in building Integrity.io:
 4. Release the product and initiate marketing to gain clients  
 5. Identifying clients(insurance companies) based on region and plans they offer. Forming group of network. 
 6. Let provider use our application to update their data.  
- 
-Page Break
+
  
 Notes: 
 Provider data is the information about a provider(ex: a doctor) contained in a provider directory, referenced during the claims process and used to determine network adequacy.  
 Smart contracts can be used to automate the granting and revocation of access to providers and payers. 
-Put your prototype or diagram here: 
+
  
+ 
+![iotproject](https://user-images.githubusercontent.com/32714796/33084439-d76eb024-ce96-11e7-974a-038c5e5006c9.PNG) 
 Figure 1: Conceptual model of idea where provider information is updated in block chain network and then after authentication persisted to master database.  
- 
- 
-Page Break
- 
  
 Prototype: https://marvelapp.com/46e93f9 
  
