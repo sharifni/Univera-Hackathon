@@ -60,6 +60,12 @@ Prototype: https://marvelapp.com/46e93f9
  
  
  
+ 
+ 
+ # Viable solution Presented
+ 
+ ![univera](https://user-images.githubusercontent.com/32714796/37753892-87ec7c14-2d75-11e8-92b2-5d59b287ca7f.png)
+ 
 
 References: 
 http://www.ethdocs.org/en/latest/network/connecting-to-the-network.html#the-ethereum-network 
